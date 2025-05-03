@@ -1,0 +1,9 @@
+# Ignore Composer dependencies
+/vendor/
+
+# Ignore temporary logs
+/tmp/
+
+# Ignore all hidden files and directories except .gitignore
+.*
+!.gitignore 
